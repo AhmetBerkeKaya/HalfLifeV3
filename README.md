@@ -27,7 +27,6 @@ Aşağıda projeye ait bazı ekran görüntüleri bulunmaktadır:
 ![Ekran görüntüsü 2024-12-21 175056](https://github.com/user-attachments/assets/2494cb33-98aa-4076-8bd0-d9a478393f52)
 ![Ekran görüntüsü 2024-12-21 175044](https://github.com/user-attachments/assets/d901b5a8-c093-4428-830b-e4292c9c543c)
 ![Ekran görüntüsü 2024-12-21 175014](https://github.com/user-attachments/assets/92a0c8a6-373a-4301-b9a2-d20f7900351f)
-![Ekran görüntüsü 2024-12-19 175646](https://github.com/user-attachments/assets/6a2c4b37-62be-4912-97f1-a95dea2d8fd0)
 
 
 ## Bilinen Sorunlar
